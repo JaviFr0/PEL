@@ -1,0 +1,3 @@
+C:/Users/zrihn/CLionProjects/Bloque2-Ej1/cmake-build-debug/CMakeFiles/Bloque2_Ej1.dir
+C:/Users/zrihn/CLionProjects/Bloque2-Ej1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zrihn/CLionProjects/Bloque2-Ej1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
