@@ -1,0 +1,3 @@
+C:/Users/Javier/3D Objects/Proyecto/EjercicioPunto/cmake-build-debug/CMakeFiles/EjercicioPunto.dir
+C:/Users/Javier/3D Objects/Proyecto/EjercicioPunto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Javier/3D Objects/Proyecto/EjercicioPunto/cmake-build-debug/CMakeFiles/rebuild_cache.dir

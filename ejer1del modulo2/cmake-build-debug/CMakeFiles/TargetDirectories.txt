@@ -1,0 +1,3 @@
+C:/Users/Javier/3D Objects/Proyecto/ejer1del modulo2/cmake-build-debug/CMakeFiles/ejer1del_modulo2.dir
+C:/Users/Javier/3D Objects/Proyecto/ejer1del modulo2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Javier/3D Objects/Proyecto/ejer1del modulo2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
