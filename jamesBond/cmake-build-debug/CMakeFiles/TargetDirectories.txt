@@ -1,0 +1,3 @@
+C:/Users/kikor/Music/PEL/PEL/jamesBond/cmake-build-debug/CMakeFiles/jamesBond.dir
+C:/Users/kikor/Music/PEL/PEL/jamesBond/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kikor/Music/PEL/PEL/jamesBond/cmake-build-debug/CMakeFiles/rebuild_cache.dir

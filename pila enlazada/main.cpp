@@ -40,41 +40,33 @@ public:
     }
 };
 int main() {
-    Stack* stack = new Stack();
-
-    int choice;
-    while (true) {
-        std::cout << "1. Enqueue" << std::endl;
-        std::cout << "2. Dequeue" << std::endl;
-        std::cout << "3. Mostrar cola" << std::endl;
-        std::cout << "4. Salir" << std::endl;
-        std::cout << "Ingrese su opcion: ";
-        std::cin >> choice;
-
-        switch (choice) {
-            case 1: {
-                int data;
-                std::cout << "Ingrese el valor a agregar: ";
-                std::cin >> data;
-                push(data);
-                break;
-            }
-            case 2: {
-                dequeue(q);
-                break;
-            }
-            case 3: {
-                // función para mostrar los datos de la cola
-                showQueue(q);
-                break;
-            }
-            case 4: {
-                exit(0);
-            }
-            default: {
-                std::cout << "Opcion invalida, intente de nuevo." << std::endl;
-            }
-        }
+    menu:
+    Stack stack;
+    int option;
+    int data;
+    std::cout << "1. Push" << std::endl;
+    std::cout << "2. Pop" << std::endl;
+    std::cout << "3. Display" << std::endl;
+    std::cout << "4. Exit" << std::endl;
+    std::cout << "Ingrese una opcion: ";
+    std::cin >> option;
+    switch (option) {
+        case 1:
+            std::cout << "Ingrese un numero: ";
+            std::cin >> data;
+            stack.push(data);
+            goto menu;
+        case 2:
+            std::cout << "El numero eliminado es: " << stack.pop() << std::endl;
+            goto menu;
+        case 3:
+            stack.display();
+            goto menu;
+        case 4:
+            break;
+        default:
+            std::cout << "Opcion invalida" << std::endl;
+            goto menu;
     }
     return 0;
 }
