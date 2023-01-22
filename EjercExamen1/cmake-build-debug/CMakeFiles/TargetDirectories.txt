@@ -1,0 +1,3 @@
+C:/Users/tatom/CLionProjects/EjercExamen1/cmake-build-debug/CMakeFiles/EjercExamen1.dir
+C:/Users/tatom/CLionProjects/EjercExamen1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tatom/CLionProjects/EjercExamen1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

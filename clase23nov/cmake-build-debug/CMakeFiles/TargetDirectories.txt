@@ -1,0 +1,3 @@
+C:/Users/tatom/CLionProjects/clase23nov/cmake-build-debug/CMakeFiles/clase23nov.dir
+C:/Users/tatom/CLionProjects/clase23nov/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tatom/CLionProjects/clase23nov/cmake-build-debug/CMakeFiles/rebuild_cache.dir

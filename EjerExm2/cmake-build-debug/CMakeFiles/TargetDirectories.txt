@@ -1,0 +1,3 @@
+C:/Users/tatom/CLionProjects/EjerExm2/cmake-build-debug/CMakeFiles/EjerExm2.dir
+C:/Users/tatom/CLionProjects/EjerExm2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tatom/CLionProjects/EjerExm2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

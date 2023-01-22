@@ -1,0 +1,3 @@
+C:/Users/tatom/CLionProjects/nodo/cmake-build-debug/CMakeFiles/nodo.dir
+C:/Users/tatom/CLionProjects/nodo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tatom/CLionProjects/nodo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

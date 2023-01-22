@@ -1,0 +1,3 @@
+C:/Users/tatom/CLionProjects/PEL13dic/cmake-build-debug/CMakeFiles/PEL13dic.dir
+C:/Users/tatom/CLionProjects/PEL13dic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tatom/CLionProjects/PEL13dic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
